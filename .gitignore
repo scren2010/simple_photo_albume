@@ -1,0 +1,16 @@
+db.sqlite3
+media/icon/
+media/
+myvenv/
+.idea/
+.vscode/
+.DS_Store
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.pyc
+.env
+local_settings.py
+staticfiles/
+/migrations/
+static/
